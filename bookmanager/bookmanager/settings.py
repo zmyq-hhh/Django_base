@@ -25,6 +25,7 @@ SECRET_KEY = '(w-ran9@&(-#z8+^u4oh@6xg*t17r*ca_lxecz!+wvfd6@ony*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#默认是127.0.0.1
 ALLOWED_HOSTS = []
 
 
